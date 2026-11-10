@@ -79,7 +79,7 @@ THE SOFTWARE.
     <dependency><!-- working around MCOMPILER-97 -->
       <groupId>org.jenkins-ci</groupId>
       <artifactId>core-annotation-processors</artifactId>
-      <version>1.0</version>
+      <version>59.ve181f58722c6</version>
       <scope>provided</scope>
       <optional>true</optional>
     </dependency>
